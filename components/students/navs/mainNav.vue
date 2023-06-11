@@ -15,7 +15,7 @@
               alt="profile"
             />
 
-            <span class="text-truncate profile-name">محمد سالم</span>
+            <span class="text-truncate profile-name">محمد السيد</span>
           </NuxtLink>
         </div>
 
